@@ -1,0 +1,897 @@
+[
+    {
+        "answer": "Nitrogen (N), Phosphorus (P), Potassium (K), Magnesium (Mg), Calcium (Ca)",
+        "question": "What macro-nutrients does the coffee tree require?",
+        "context": "The coffee tree requires certain elements in large quantities such as Nitrogen (N), Phosphorus (P), Potassium (K) among others. These elements are referred to as Macro-nutrients."
+    },
+    {
+        "answer": "Zinc (Zn), Boron (B), Iron (Fe), Manganese, Molybdenum, Chlorine",
+        "question": "What micro-nutrients does the coffee tree require?",
+        "context": "Other elements are required in very small quantities such as Zinc (Zn), Boron (B), Iron (Fe), Manganese, Molybdenum, Chlorine among others. These are referred to as Micro-nutrients."
+    },
+    {
+        "answer": "Nitrogen (N)",
+        "question": "Which macro-nutrient is important for vegetative growth, crop bearing capacity, and bean size in coffee?",
+        "context": "Table 1: Macro-nutrients and their importance ELEMENT IMPORTANCE IN COFFEE Nitrogen (N) • Vegetative growth • Crop bearing capacity • Bean size"
+    },
+    {
+        "answer": "Phosphorus (P)",
+        "question": "Which macro-nutrient is important for roots and bearing wood development, early berry maturity, and bean density in coffee?",
+        "context": "Table 1: Macro-nutrients and their importance ELEMENT IMPORTANCE IN COFFEE Phosphorus (P) • Roots and bearing wood development • Early berry maturity • Bean density"
+    },
+    {
+        "answer": "Potassium (K)",
+        "question": "Which macro-nutrient is important for berry development and ripening, mucilage formation, and water utilization efficiency in coffee?",
+        "context": "Table 1: Macro-nutrients and their importance ELEMENT IMPORTANCE IN COFFEE Potassium (K) • Berry development and ripening • Mucilage formation • Water utilization efficiency"
+    },
+    {
+        "answer": "Magnesium (Mg)",
+        "question": "Which macro-nutrient enhances bean color in coffee?",
+        "context": "Table 1: Macro-nutrients and their importance ELEMENT IMPORTANCE IN COFFEE Magnesium (Mg) • Enhances bean color (Blue/Green grey color)"
+    },
+    {
+        "answer": "Calcium (Ca)",
+        "question": "Which macro-nutrient is important for the growth of terminal buds and flower formation in coffee?",
+        "context": "Table 1: Macro-nutrients and their importance ELEMENT IMPORTANCE IN COFFEE Calcium (Ca) • Growth of Terminal buds/flower formation"
+    },
+    {
+        "answer": "Calcium Ammonium Nitrate (CAN), Ammonium sulphate nitrate (ASN), Ammonium Sulphate (AS), Urea",
+        "question": "What are the recommended nitrogen fertilizers for coffee?",
+        "context": "Straight fertilizers - Supplies one nutrient Nitrogen Fertilizers • Calcium Ammonium Nitrate (CAN) 26% N • Ammonium sulphate nitrate (ASN) 26% N • Ammonium Sulphate (AS)- 20 21% N • Urea 46% N"
+    },
+    {
+        "answer": "Single super phosphate (SSP), Di-ammonium phosphate (DAP), Triple super phosphate (TSP), Phosphoric acid",
+        "question": "What are the recommended phosphate fertilizers for coffee?",
+        "context": "Phosphate Fertilizers • Single super phosphate (SSP) 18 -22% P2O5 • Di-ammonium phosphate (DAP) 46% P2O5 • Triple super phosphate (TSP) 46% P2O5 • Phosphoric acid"
+    },
+    {
+        "answer": "Sulphate of potash (Potassium sulphate), Potassium chloride (Muriate of potash)",
+        "question": "What are the recommended potassium fertilizers for coffee?",
+        "context": "Potassium Fertilizers • Sulphate of potash (Potassium sulphate) • Potassium chloride (Muriate of potash)"
+    },
+    {
+        "answer": "Magnesium sulphate (Epsom Salts)",
+        "question": "What is the recommended magnesium fertilizer for coffee?",
+        "context": "Magnesium Fertilizers • Magnesium sulphate (Epsom Salts)"
+    },
+    {
+        "answer": "Magnesium Nitrate, Calcite - Agricultural Lime, Dolomite - Magmax, Gypsum - Calcium sulphate (plaster of Paris)",
+        "question": "What are the recommended calcium fertilizers for coffee?",
+        "context": "Calcium Fertilizers • Magnesium Nitrate • Calcite - Agricultural Lime • Dolomite - Magmax • Gypsum - Calcium sulphate (plaster of Paris)"
+    },
+    {
+        "answer": "Zinc Oxide, Zinc Sulphate",
+        "question": "What are the recommended zinc fertilizers for coffee?",
+        "context": "Zinc Fertilizers • Zinc Oxide • Zinc Sulphate"
+    },
+    {
+        "answer": "Borax, Solubor",
+        "question": "What are the recommended boron fertilizers for coffee?",
+        "context": "Boron Fertilizers • Borax • Solubor"
+    },
+    {
+        "answer": "Correcting nutrient deficiency and supplementing nutrient availability/utilization where soil nutrient uptake is impeded during dry weather.",
+        "question": "What are the uses of foliar fertilizers for coffee?",
+        "context": "Foliar Fertilizers Used to Supplement soil applied fertilizers with the aim of; - correcting nutrient deficiency - supplementing nutrient availability/utilization where soil Nutrient uptake is impeded during dry weather."
+    },
+    {
+        "answer": "Organic manures and mulch materials",
+        "question": "What acts as sources of plant nutrients after the decomposition process?",
+        "context": "Manures/Mulches Organic manures and mulch materials act as sources of plant nutrients after decomposition process. Amounts of nutrients released depends on: • nature and origin of material • rate of decomposition • climatic conditions"
+    },
+    {
+        "answer": "The material to be used should depend on soil nutrient requirement to avoid inducing nutrient imbalances.",
+        "question": "How should the material for manures and mulches be chosen for coffee?",
+        "context": "Hence the material to be used should depend on soil nutrient requirement in order to avoid inducing nutrient imbalances."
+    },
+    {
+        "answer": "Improves soil texture and structure, improves soil aeration, moderates topsoil temperatures, minimizes topsoil moisture loss, increases microbial activity, suppresses weed/insect pests, controls soil erosion, poultry manure is rich in phosphorus and nitrogen",
+        "question": "What are the attributes of manures/mulches?",
+        "context": "Attributes of Manures/ Mulches; • Improves soil texture and structure • improves soil aeration • Moderates top soil temperatures • Minimizes top soil moisture loss • Increases microbial activity • Suppresses weed/insect pests • Control soil erosion • Poultry manure - rich in phosphorus and Nitrogen"
+    },
+    {
+        "answer": "Apply lime at 250 g/tree per year during dry weather to maintain a suitable soil pH (acidity). Broadcast between rows.",
+        "question": "What is the recommended liming application for coffee?",
+        "context": "Liming Apply lime at 250 g /tree per year during dry weather in order to maintain a suitable soil pH (acidity). Broadcast between rows."
+    },
+    {
+        "answer": "Apply 6 months before main flowering at the rate of 250g/tree and 2 weeks after the onset of rains. Apply along the drip line and incorporate shallowly in the soil.",
+        "question": "What is the recommended N.P.K application for coffee?",
+        "context": "N.P.K application Apply 6 months before main flowering (April for October /November flowering) and October for March/April flowering) at the rate of 250g/tree and 2 weeks after the onset of rains. Apply along the drip line and incorporate shallowly in the soil."
+    },
+    {
+        "answer": "Apply nitrogen fertilizer (CAN/ASN) after the main flowering at the rate of 300 g/tree/year.",
+        "question": "What is the recommended nitrogen application for coffee after the main flowering?",
+        "context": "Nitrogen application • Apply nitrogen fertilizer (CAN/ASN) after the main flowering at the rate of 300 g/tree/year."
+    },
+    {
+        "answer": "Apply 1-2 debes of well decomposed manure/coffee pulp once a year during dry weather (January or August)",
+        "question": "What is the recommended manure application for coffee?",
+        "context": "Manure application Apply 1- 2 debes of well decomposed manure/coffee pulp once a year during dry weather (January or August)"
+    },
+    {
+        "answer": "Nitrogen (N), Phosphorus (P), Potassium (K), Magnesium (Mg), Calcium (Ca)",
+        "question": "What macro-nutrients are essential for coffee?",
+        "context": "The coffee tree requires certain elements in large quantities such as Nitrogen (N), Phosphorus (P), Potassium (K), Magnesium (Mg), and Calcium (Ca). These elements are referred to as macro-nutrients."
+    },
+    {
+        "answer": "Zinc (Zn), Boron (B), Iron (Fe), Sulphur (S)",
+        "question": "What micro-nutrients are essential for coffee?",
+        "context": "Other elements are required in very small quantities such as Zinc (Zn), Boron (B), Iron (Fe), and Sulphur (S). These are referred to as micro-nutrients."
+    },
+    {
+        "answer": "Vital for vegetative growth, crop bearing capacity, and bean size",
+        "question": "What is the role of Nitrogen (N) in coffee plants?",
+        "context": "Nitrogen (N) is vital for vegetative growth, crop bearing capacity, and bean size in coffee plants."
+    },
+    {
+        "answer": "Essential for roots and bearing wood development, early berry maturity, and bean density",
+        "question": "What is the role of Phosphorus (P) in coffee plants?",
+        "context": "Phosphorus (P) is essential for roots and bearing wood development, early berry maturity, and bean density in coffee plants."
+    },
+    {
+        "answer": "Supports berry development and ripening, mucilage formation, and water utilization efficiency",
+        "question": "What is the role of Potassium (K) in coffee plants?",
+        "context": "Potassium (K) supports berry development and ripening, mucilage formation, and water utilization efficiency in coffee plants."
+    },
+    {
+        "answer": "Enhances bean color (blue/green-gray color) and food formation",
+        "question": "What is the role of Magnesium (Mg) in coffee plants?",
+        "context": "Magnesium (Mg) enhances bean color (blue/green-gray color) and food formation in coffee plants."
+    },
+    {
+        "answer": "Crucial for the growth of terminal buds and flower formation",
+        "question": "What is the role of Calcium (Ca) in coffee plants?",
+        "context": "Calcium (Ca) is crucial for the growth of terminal buds and flower formation in coffee plants."
+    },
+    {
+        "answer": "Acts as a plant hormone, influences leaf size, and intensifies flower initiation and formation",
+        "question": "What is the role of Zinc (Zn) in coffee plants?",
+        "context": "Zinc (Zn) acts as a plant hormone, influences leaf size, and intensifies flower initiation and formation in coffee plants."
+    },
+    {
+        "answer": "Promotes shoot growth, facilitates optimal flowering and fruit set, and enhances fruit set",
+        "question": "What is the role of Boron (B) in coffee plants?",
+        "context": "Boron (B) promotes shoot growth, facilitates optimal flowering and fruit set, and enhances fruit set in coffee plants."
+    },
+    {
+        "answer": "Involved in chlorophyll synthesis for food formation and promotes bean color (prevents amber beans)",
+        "question": "What is the role of Iron (Fe) in coffee plants?",
+        "context": "Iron (Fe) is involved in chlorophyll synthesis for food formation and promotes bean color, preventing amber beans in coffee plants."
+    },
+    {
+        "answer": "Enhances the aroma of the liquor",
+        "question": "What is the role of Sulphur (S) in coffee plants?",
+        "context": "Sulphur (S) enhances the aroma of the liquor in coffee plants."
+    },
+    {
+        "answer": "Compound fertilizers supply more than one nutrient, such as NPK mixtures like 20:10:10 or 17:17:17.",
+        "question": "What are compound fertilizers?",
+        "context": "Compound fertilizers supply more than one nutrient, consisting of mechanical mixtures with specific proportions of primary nutrients (NPK) like 20:10:10 or 17:17:17."
+    },
+    {
+        "answer": "Economical if two or more nutrients are limiting, one annual nitrogen application should be replaced with a compound fertilizer to supply the same quantity of nitrogen.",
+        "question": "When should compound fertilizers be used?",
+        "context": "Compound fertilizers are economical if two or more nutrients are limiting. One annual nitrogen application should be replaced with a compound fertilizer to supply the same quantity of nitrogen."
+    },
+    {
+        "answer": "Improves soil texture and structure, aeration, topsoil temperature moderation, moisture retention, microbial activity, weed/insect pest suppression, and erosion control. Rich in phosphorus and nitrogen.",
+        "question": "What are the benefits of using manures/mulches?",
+        "context": "Manures and mulches improve soil texture and structure, aeration, topsoil temperature moderation, moisture retention, microbial activity, weed/insect pest suppression, and erosion control. Poultry manure, in particular, is rich in phosphorus and nitrogen."
+    },
+    {
+        "answer": "Apply lime at 250 g/tree per year during dry weather to maintain suitable soil pH. Broadcast between rows.",
+        "question": "What is the recommended liming application for coffee?",
+        "context": "Apply lime at 250 g/tree per year during dry weather to maintain suitable soil pH. Broadcast between rows."
+    },
+    {
+        "answer": "Apply six months before the main flowering at the rate of 250 g/tree. Apply along the drip line and incorporate shallowly into the soil two weeks after the onset of rains.",
+        "question": "What is the recommended N.P.K application for coffee?",
+        "context": "Apply six months before the main flowering (April for October/November flowering and October for March/April flowering) at the rate of 250 g/tree. Apply along the drip line and incorporate shallowly into the soil two weeks after the onset of rains."
+    },
+    {
+        "answer": "Two months before the main flowering, apply a foliar mixture of zinc and boron at the rate of 2-3 kg of each per hectare (40-60 g of each per 20 liters of water).",
+        "question": "What is the recommended boron/zinc application for coffee?",
+        "context": "Two months before the main flowering, apply a foliar mixture of zinc and boron at the rate of 2-3 kg of each per hectare (40-60 g of each per 20 liters of water)."
+    },
+    {
+        "answer": "Apply nitrogen fertilizer (CAN/ASN) after the main flowering at the rate of 300 g/tree/year. Apply in two equal splits east of Rift Valley at 3-4 week intervals (150 g/application) and in three equal splits west of Rift Valley at 3-4 week intervals (100 g/application).",
+        "question": "What is the recommended nitrogen application for coffee after the main flowering?",
+        "context": "Apply nitrogen fertilizer (CAN/ASN) after the main flowering at the rate of 300 g/tree/year. Apply in two equal splits east of Rift Valley at 3-4 week intervals (150 g/application) and in three equal splits west of Rift Valley at 3-4 week intervals (100 g/application)."
+    },
+    {
+        "answer": "Apply 1-2 debes of well-decomposed manure/coffee pulp once a year during dry weather (January or August).",
+        "question": "What is the recommended manure application for coffee?",
+        "context": "Apply 1-2 debes of well-decomposed manure/coffee pulp once a year during dry weather (January or August)."
+    },
+    {
+        "answer": "January: Zinc oxide or zinc sulfate and solubor application, soil and leaf analysis, liming.",
+        "question": "What are the coffee nutrition tasks for January in Central Province?",
+        "context": "In Central Province, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, soil and leaf analysis, and liming."
+    },
+    {
+        "answer": "February: Foliar application high in nitrogen and potassium, urea foliar application, Epsom salt application.",
+        "question": "What are the coffee nutrition tasks for February in Central Province?",
+        "context": "In Central Province, February's coffee nutrition tasks include foliar application high in nitrogen and potassium, urea foliar application, and Epsom salt application."
+    },
+    {
+        "answer": "March: Manure application.",
+        "question": "What are the coffee nutrition tasks for March in Central Province?",
+        "context": "In Central Province, March's coffee nutrition task is manure application."
+    },
+    {
+        "answer": "April: Nitrogen fertilizer application (CAN or ASN), compound fertilizer application (NPK).",
+        "question": "What are the coffee nutrition tasks for April in Central Province?",
+        "context": "In Central Province, April's coffee nutrition tasks include nitrogen fertilizer application (CAN or ASN) and compound fertilizer application (NPK)."
+    },
+    {
+        "answer": "May: Nitrogen fertilizer application (CAN or ASN).",
+        "question": "What are the coffee nutrition tasks for May in Central Province?",
+        "context": "In Central Province, May's coffee nutrition task is nitrogen fertilizer application (CAN or ASN)."
+    },
+    {
+        "answer": "June: Foliar spray high in nitrogen and potassium.",
+        "question": "What are the coffee nutrition tasks for June in Central Province?",
+        "context": "In Central Province, June's coffee nutrition task is a foliar spray high in nitrogen and potassium."
+    },
+    {
+        "answer": "July: Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, liming.",
+        "question": "What are the coffee nutrition tasks for July in Central Province?",
+        "context": "In Central Province, July's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, and liming."
+    },
+    {
+        "answer": "80 kg N/ha/year, which translates to 330 grams of 21% N fertilizer per tree",
+        "question": "What are the recommended nitrogen application rates for coffee trees producing less than 1000 kg/ha?",
+        "context": "For coffee trees producing less than 1000 kg/ha, the recommended nitrogen application rate is 80 kg N/ha/year, which translates to 330 grams of 21% N fertilizer per tree."
+    },
+    {
+        "answer": "100-150 kg N/ha/year, which corresponds to 358-538 grams of 21% N fertilizer per tree, equating to 476-715 kg of fertilizer per hectare",
+        "question": "How should fertilizers be applied if the estimated crop yield is between 1500-2000 kg/ha?",
+        "context": "For an estimated crop yield of 1500-2000 kg/ha, apply 100-150 kg N/ha/year, which corresponds to 358-538 grams of 21% N fertilizer per tree, equating to 476-715 kg of fertilizer per hectare."
+    },
+    {
+        "answer": "Increase the nitrogen application rate to up to 200 kg N/ha/year, with 716 grams of 21% N fertilizer per tree or 952 kg of fertilizer per hectare",
+        "question": "What adjustments should be made to fertilizer application if the crop yield is over 2000 kg/ha?",
+        "context": "For crop yields over 2000 kg/ha, increase the nitrogen application rate to up to 200 kg N/ha/year, with 716 grams of 21% N fertilizer per tree or 952 kg of fertilizer per hectare."
+    },
+    {
+        "answer": "For acid soils (pH < 4.4), use TSP; for moderately acid soils (pH 4.4 - 5.4), use TSP or SSP; for mildly acid soils (pH > 5.4), use DAP",
+        "question": "How is the phosphorus fertilizer application adjusted based on soil pH?",
+        "context": "Phosphorus fertilizer application is adjusted based on soil pH: for acid soils (pH < 4.4), use TSP; for moderately acid soils (pH 4.4 - 5.4), use TSP or SSP; for mildly acid soils (pH > 5.4), use DAP."
+    },
+    {
+        "answer": "Zinc oxide or zinc sulfate and solubor application, soil and leaf analysis, liming",
+        "question": "What are the coffee nutrition tasks for January in Central Province?",
+        "context": "In Central Province, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, soil and leaf analysis, and liming."
+    },
+    {
+        "answer": "Foliar application high in nitrogen and potassium, urea foliar application, Epsom salt application",
+        "question": "What are the coffee nutrition tasks for February in Central Province?",
+        "context": "In Central Province, February's coffee nutrition tasks include foliar application high in nitrogen and potassium, urea foliar application, and Epsom salt application."
+    },
+    {
+        "answer": "Manure application",
+        "question": "What are the coffee nutrition tasks for March in Central Province?",
+        "context": "In Central Province, March's coffee nutrition task is manure application."
+    },
+    {
+        "answer": "Nitrogen fertilizer application (CAN or ASN), compound fertilizer application (NPK)",
+        "question": "What are the coffee nutrition tasks for April in Central Province?",
+        "context": "In Central Province, April's coffee nutrition tasks include nitrogen fertilizer application (CAN or ASN) and compound fertilizer application (NPK)."
+    },
+    {
+        "answer": "Nitrogen fertilizer application (CAN or ASN)",
+        "question": "What are the coffee nutrition tasks for May in Central Province?",
+        "context": "In Central Province, May's coffee nutrition task is nitrogen fertilizer application (CAN or ASN)."
+    },
+    {
+        "answer": "Foliar spray high in nitrogen and potassium",
+        "question": "What are the coffee nutrition tasks for June in Central Province?",
+        "context": "In Central Province, June's coffee nutrition task is a foliar spray high in nitrogen and potassium."
+    },
+    {
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, liming",
+        "question": "What are the coffee nutrition tasks for July in Central Province?",
+        "context": "In Central Province, July's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, and liming."
+    },
+    {
+        "answer": "Urea foliar application, Epsom salt application",
+        "question": "What are the coffee nutrition tasks for August in Central Province?",
+        "context": "In Central Province, August's coffee nutrition tasks include urea foliar application and Epsom salt application."
+    },
+    {
+        "answer": "Manure application",
+        "question": "What are the coffee nutrition tasks for September in Central Province?",
+        "context": "In Central Province, September's coffee nutrition task is manure application."
+    },
+    {
+        "answer": "Compound fertilizer (NPK) application",
+        "question": "What are the coffee nutrition tasks for October in Central Province?",
+        "context": "In Central Province, October's coffee nutrition task is compound fertilizer (NPK) application."
+    },
+    {
+        "answer": "Nitrogen fertilizer application (CAN or ASN)",
+        "question": "What are the coffee nutrition tasks for November in Central Province?",
+        "context": "In Central Province, November's coffee nutrition task is nitrogen fertilizer application (CAN or ASN)."
+    },
+    {
+        "answer": "Soil and leaf analysis",
+        "question": "What are the coffee nutrition tasks for December in Central Province?",
+        "context": "In Central Province, December's coffee nutrition task is soil and leaf analysis."
+    },
+    {
+        "answer": "Ensure proper management of coffee from planting through post-harvest handling to maintain quality.",
+        "question": "What is the importance of managing coffee from planting through post-harvest handling?",
+        "context": "Good agricultural practices emphasize the importance of managing coffee from planting through post-harvest handling to maintain quality."
+    },
+    {
+        "answer": "To prevent contamination and maintain quality.",
+        "question": "Why is it important to maintain a clean and hygienic environment in coffee farming?",
+        "context": "Maintaining a clean and hygienic environment in coffee farming is important to prevent contamination and maintain quality."
+    },
+    {
+        "answer": "To ensure healthy and high-yielding coffee trees.",
+        "question": "Why is it essential to use disease-free planting material?",
+        "context": "Using disease-free planting material is essential to ensure healthy and high-yielding coffee trees."
+    },
+    {
+        "answer": "Proper spacing allows for adequate air circulation and sunlight penetration.",
+        "question": "What is the significance of proper spacing in coffee plantations?",
+        "context": "Proper spacing in coffee plantations allows for adequate air circulation and sunlight penetration, which are crucial for the health of the coffee trees."
+    },
+    {
+        "answer": "To ensure the coffee trees receive necessary nutrients for optimal growth.",
+        "question": "Why is it important to apply fertilizers according to soil and leaf analysis?",
+        "context": "Applying fertilizers according to soil and leaf analysis ensures the coffee trees receive necessary nutrients for optimal growth."
+    },
+    {
+        "answer": "To reduce competition for nutrients, water, and light, and to minimize the spread of pests and diseases.",
+        "question": "What are the benefits of weeding in coffee plantations?",
+        "context": "Weeding in coffee plantations reduces competition for nutrients, water, and light, and minimizes the spread of pests and diseases."
+    },
+    {
+        "answer": "To prevent the spread of diseases and pests.",
+        "question": "Why should pruned materials be removed from the field?",
+        "context": "Pruned materials should be removed from the field to prevent the spread of diseases and pests."
+    },
+    {
+        "answer": "To prevent soil erosion, improve soil fertility, and increase organic matter.",
+        "question": "What are the benefits of using cover crops in coffee plantations?",
+        "context": "Using cover crops in coffee plantations helps prevent soil erosion, improve soil fertility, and increase organic matter."
+    },
+    {
+        "answer": "To maintain the desired shape and size of the coffee trees, and to remove diseased or dead branches.",
+        "question": "What is the purpose of pruning coffee trees?",
+        "context": "Pruning coffee trees helps maintain the desired shape and size, and removes diseased or dead branches."
+    },
+    {
+        "answer": "To protect the soil from erosion and to conserve moisture.",
+        "question": "Why is mulching important in coffee farming?",
+        "context": "Mulching is important in coffee farming to protect the soil from erosion and to conserve moisture."
+    },
+    {
+        "answer": "To avoid the risk of chemical residues in the coffee beans.",
+        "question": "Why should the use of pesticides be minimized in coffee farming?",
+        "context": "The use of pesticides should be minimized in coffee farming to avoid the risk of chemical residues in the coffee beans."
+    },
+    {
+        "answer": "To ensure the safety and well-being of the workers.",
+        "question": "Why is it important to provide protective gear to workers in coffee plantations?",
+        "context": "Providing protective gear to workers in coffee plantations is important to ensure their safety and well-being."
+    },
+    {
+        "answer": "To ensure the sustainability and health of the coffee plantation.",
+        "question": "Why should coffee plantations be regularly monitored for pests and diseases?",
+        "context": "Regular monitoring of coffee plantations for pests and diseases is essential to ensure their sustainability and health."
+    },
+    {
+        "answer": "To minimize the environmental impact and ensure safe disposal.",
+        "question": "Why is proper waste management important in coffee farming?",
+        "context": "Proper waste management in coffee farming is important to minimize the environmental impact and ensure safe disposal."
+    },
+    {
+        "answer": "To ensure high-quality coffee beans and to maintain market standards.",
+        "question": "Why is it important to follow recommended post-harvest handling practices?",
+        "context": "Following recommended post-harvest handling practices is crucial to ensure high-quality coffee beans and maintain market standards."
+    },
+    {
+        "answer": "To reduce the risk of contamination and ensure the quality of the coffee beans.",
+        "question": "Why should coffee beans be stored in clean and dry conditions?",
+        "context": "Storing coffee beans in clean and dry conditions reduces the risk of contamination and ensures their quality."
+    },
+    {
+        "answer": "To maintain the quality and freshness of the coffee beans.",
+        "question": "What is the importance of timely harvesting in coffee farming?",
+        "context": "Timely harvesting in coffee farming is important to maintain the quality and freshness of the coffee beans."
+    },
+    {
+        "answer": "To avoid physical damage to the beans and to ensure uniform ripening.",
+        "question": "Why should coffee cherries be handled carefully during harvesting?",
+        "context": "Handling coffee cherries carefully during harvesting is important to avoid physical damage to the beans and ensure uniform ripening."
+    },
+    {
+        "answer": "To ensure traceability and compliance with food safety standards.",
+        "question": "Why is record-keeping important in coffee farming?",
+        "context": "Record-keeping in coffee farming is important to ensure traceability and compliance with food safety standards."
+    },
+    {
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, liming",
+        "question": "What are the coffee nutrition tasks for January in Central Province?",
+        "context": "In Central Province, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, and liming."
+    },
+    {
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, urea foliar application",
+        "question": "What are the coffee nutrition tasks for February in Central Province?",
+        "context": "In Central Province, February's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and urea foliar application."
+    },
+    {
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "question": "What are the coffee nutrition tasks for March in Central Province?",
+        "context": "In Central Province, March's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "question": "What are the coffee nutrition tasks for April in Central Province?",
+        "context": "In Central Province, April's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "question": "What are the coffee nutrition tasks for May in Central Province?",
+        "context": "In Central Province, May's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "question": "What are the coffee nutrition tasks for June in Central Province?",
+        "context": "In Central Province, June's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "question": "What are the coffee nutrition tasks for July in Central Province?",
+        "context": "In Central Province, July's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "question": "What are the coffee nutrition tasks for August in Central Province?",
+        "context": "In Central Province, August's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "question": "What are the coffee nutrition tasks for September in Central Province?",
+        "context": "In Central Province, September's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "question": "What are the coffee nutrition tasks for October in Central Province?",
+        "context": "In Central Province, October's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "question": "What are the coffee nutrition tasks for November in Central Province?",
+        "context": "In Central Province, November's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "question": "What are the coffee nutrition tasks for December in Central Province?",
+        "context": "In Central Province, December's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for January in Embu?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), liming based on soil analysis or 250 g/tree/yr if analysis has not been done",
+        "context": "In Embu, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), and liming based on soil analysis or 250 g/tree/yr if analysis has not been done."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for February in Embu?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application",
+        "context": "In Embu, February's coffee nutrition tasks include foliar application and zinc oxide or zinc sulfate and solubor application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for March in Embu?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Embu, March's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for April in Embu?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Embu, April's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for May in Embu?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Embu, May's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for June in Embu?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Embu, June's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for July in Embu?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Embu, July's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for August in Embu?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Embu, August's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for September in Embu?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Embu, September's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for October in Embu?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Embu, October's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for November in Embu?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Embu, November's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for December in Embu?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Embu, December's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for January in Meru?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), liming based on soil analysis or 250 g/tree/yr if analysis has not been done",
+        "context": "In Meru, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), and liming based on soil analysis or 250 g/tree/yr if analysis has not been done."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for February in Meru?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application",
+        "context": "In Meru, February's coffee nutrition tasks include foliar application and zinc oxide or zinc sulfate and solubor application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for March in Meru?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Meru, March's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for April in Meru?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Meru, April's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for May in Meru?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Meru, May's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for June in Meru?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Meru, June's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for July in Meru?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Meru, July's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for August in Meru?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Meru, August's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for September in Meru?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Meru, September's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for October in Meru?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Meru, October's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for November in Meru?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Meru, November's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for December in Meru?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Meru, December's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for January in Machakos?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), liming based on soil analysis or 250 g/tree/yr if analysis has not been done",
+        "context": "In Machakos, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), and liming based on soil analysis or 250 g/tree/yr if analysis has not been done."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for February in Machakos?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application",
+        "context": "In Machakos, February's coffee nutrition tasks include foliar application and zinc oxide or zinc sulfate and solubor application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for March in Machakos?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Machakos, March's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for April in Machakos?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Machakos, April's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for May in Machakos?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Machakos, May's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for June in Machakos?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Machakos, June's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for July in Machakos?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Machakos, July's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for August in Machakos?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Machakos, August's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for September in Machakos?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Machakos, September's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for October in Machakos?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Machakos, October's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for November in Machakos?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Machakos, November's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for December in Machakos?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Machakos, December's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for January in Makueni?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), liming based on soil analysis or 250 g/tree/yr if analysis has not been done",
+        "context": "In Makueni, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), and liming based on soil analysis or 250 g/tree/yr if analysis has not been done."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for February in Makueni?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application",
+        "context": "In Makueni, February's coffee nutrition tasks include foliar application and zinc oxide or zinc sulfate and solubor application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for March in Makueni?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Makueni, March's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for April in Makueni?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Makueni, April's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for May in Makueni?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Makueni, May's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for June in Makueni?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Makueni, June's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for July in Makueni?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Makueni, July's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for August in Makueni?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Makueni, August's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for September in Makueni?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Makueni, September's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for October in Makueni?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Makueni, October's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for November in Makueni?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Makueni, November's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for December in Makueni?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Makueni, December's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for January in Western?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), liming based on soil analysis or 250 g/tree/yr if analysis has not been done",
+        "context": "In Western, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), and liming based on soil analysis or 250 g/tree/yr if analysis has not been done."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for February in Western?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application",
+        "context": "In Western, February's coffee nutrition tasks include foliar application and zinc oxide or zinc sulfate and solubor application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for March in Western?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Western, March's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for April in Western?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Western, April's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for May in Western?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Western, May's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for June in Western?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Western, June's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for July in Western?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Western, July's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for August in Western?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Western, August's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for September in Western?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Western, September's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for October in Western?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Western, October's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for November in Western?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Western, November's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for December in Western?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Western, December's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for January in Rift Valley?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), liming based on soil analysis or 250 g/tree/yr if analysis has not been done",
+        "context": "In Rift Valley, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), and liming based on soil analysis or 250 g/tree/yr if analysis has not been done."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for February in Rift Valley?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application",
+        "context": "In Rift Valley, February's coffee nutrition tasks include foliar application and zinc oxide or zinc sulfate and solubor application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for March in Rift Valley?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Rift Valley, March's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for April in Rift Valley?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Rift Valley, April's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for May in Rift Valley?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Rift Valley, May's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for June in Rift Valley?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Rift Valley, June's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for July in Rift Valley?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Rift Valley, July's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for August in Rift Valley?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Rift Valley, August's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for September in Rift Valley?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Rift Valley, September's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for October in Rift Valley?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Rift Valley, October's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for November in Rift Valley?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Rift Valley, November's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for December in Rift Valley?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Rift Valley, December's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for January in Nyanza?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), liming based on soil analysis or 250 g/tree/yr if analysis has not been done",
+        "context": "In Nyanza, January's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application, soil and leaf analysis (after every 2 years), and liming based on soil analysis or 250 g/tree/yr if analysis has not been done."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for February in Nyanza?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application",
+        "context": "In Nyanza, February's coffee nutrition tasks include foliar application and zinc oxide or zinc sulfate and solubor application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for March in Nyanza?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Nyanza, March's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for April in Nyanza?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Nyanza, April's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for May in Nyanza?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Nyanza, May's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for June in Nyanza?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Nyanza, June's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for July in Nyanza?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Nyanza, July's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for August in Nyanza?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Nyanza, August's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for September in Nyanza?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Nyanza, September's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for October in Nyanza?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, urea foliar application, Epsom salt application",
+        "context": "In Nyanza, October's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, urea foliar application, and Epsom salt application."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for November in Nyanza?",
+        "answer": "Foliar application, zinc oxide or zinc sulfate and solubor application, liming",
+        "context": "In Nyanza, November's coffee nutrition tasks include foliar application, zinc oxide or zinc sulfate and solubor application, and liming."
+    },
+    {
+        "question": "What are the coffee nutrition tasks for December in Nyanza?",
+        "answer": "Zinc oxide or zinc sulfate and solubor application, foliar application, Epsom salt application",
+        "context": "In Nyanza, December's coffee nutrition tasks include zinc oxide or zinc sulfate and solubor application, foliar application, and Epsom salt application."
+    }
+]
